@@ -122,4 +122,6 @@ ul.nav-menu>li>a:before {
     font-size: 25px;
     padding-right: 18px;
 }
-
+.bg-black{
+    background-color: #727272;
+}
