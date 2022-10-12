@@ -136,11 +136,12 @@ ul.nav-menu > li > a:before {
     border: 1px solid #EEEEEE;
 }
 
-    .content-art .icon {
+.content-art .icon {
         font-size: 25px;
         padding-right: 18px;
     }
 
 .bg-red {
     background-color: red;
+
 }
